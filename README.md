@@ -1,3 +1,0 @@
-#  Personalized Movie Recommendation Engine (NLP & Association Rules)
-
-With the abundance of movies available, users often face difficulty in finding content that aligns with their tastes. However, we believe that movies favored by the same audience or movies with high box office revenue will share certain common characteristics to some extent. Leveraging this information can help platforms better select movies for release and assist production companies in creating successful films. Our primary objective is to find the patterns and develop a recommendation system that employs NLP techniques on movie overviews. Additionally, we aim to incorporate other relevant variables for clustering to enhance the accuracy and effectiveness of our recommendation system.
